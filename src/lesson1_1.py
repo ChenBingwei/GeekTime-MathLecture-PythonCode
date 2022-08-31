@@ -1,4 +1,4 @@
-class lession_1_1:
+class lesson_1_1:
     @staticmethod
     def decimal_to_binary(decimal_source):
         """十进制转换成二进制
@@ -28,7 +28,7 @@ class lession_1_1:
 
 
 if __name__ == '__main__':
-    print(lession_1_1.binary_to_octonary('0b1100100'))
+    print(lesson_1_1.binary_to_octonary('0b1100100'))
     # hexadecimal to binary
     print(bin(int('0x64', 16)))
     # decimal to decimal
